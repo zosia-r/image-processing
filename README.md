@@ -12,13 +12,9 @@ Introduction to core image processing concepts: histograms, color palettes, and 
 Implementation of blob detectors using the Laplacian of Gaussian (LoG) filter, thresholding, and 3D non-maxima suppression.  
 **Tools:** `scikit-image`, `matplotlib`, `numpy`
 
-### Lab 3 - Dermoscopic Image Segmentation
-Segmentation of dermoscopic skin lesion images using threshold-based methods, region evolution, and clustering. Includes morphological post-processing.  
-**Tools:** `numpy`, `scikit-image`, `matplotlib`, `scikit-learn`
-
 ### Lab 4 - Skin Lesion Recognition with CNNs
 Dermoscopic image classification using Convolutional Neural Networks — custom DenseNet-inspired architecture and fine-tuned EfficientNet-B3.  
-**→ See separate repository: [zosia-r/cnn](https://github.com/zosia-r/cnn)**
+**See separate repository: [zosia-r/cnn](https://github.com/zosia-r/cnn)**
 
 ### Lab 5 - Object Detection with CNNs
 Object detection using deep convolutional neural networks.  
