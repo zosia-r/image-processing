@@ -4,7 +4,6 @@ import time
 import torch
 import utils
 
-
 def train_one_epoch(model, optimizer, data_loader, device, weights, epoch, print_freq):
     model.train()
     metric_logger = utils.MetricLogger(delimiter="  ")
